@@ -17,6 +17,7 @@ Scikit-learn (Machine Learning)
 Geopandas & Folium (Geospatial Analysis)
 NLTK / TextBlob (Sentiment Analysis)
 Jupyter Notebook
+
 📊 Key Insights
 Pricing Factors: Location, property type, and customer ratings significantly impact pricing.
 Demand Patterns: Seasonal trends influence Airbnb occupancy rates.
